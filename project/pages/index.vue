@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        project
+        &#128021;
       </h1>
       <div class="links">
         <a
